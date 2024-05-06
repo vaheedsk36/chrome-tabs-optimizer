@@ -2,7 +2,7 @@
 
 Tab Memory Tracker is a Chrome extension that allows users to track the memory usage of each open tab in their browser. It provides a simple interface to view memory usage, search for specific tabs, and selectively close tabs to free up memory.
 
-# Sample Image
+## Preview
 <img width="1122" alt="image" src="https://github.com/vaheedsk36/chrome-tabs-optimizer/assets/72762824/00247b20-8794-42c6-a18e-2cd16f16f2e4">
 
 ## Features
